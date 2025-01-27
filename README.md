@@ -2,7 +2,7 @@
 <h3 align="center">Blockchain Developer & Trainer, passionate about learning and building new things</h3>
 
 <br>
-<img align="left" alt="GIF" src="https://github.com/pglekshmi/pglekshmi/blob/main/assets/6670aa98-ec62-4b51-8c10-afa79d867c9f-removebg-preview.png" width="350" height="250" />
+<img align="left" alt="GIF" src="https://github.com/pglekshmi/pglekshmi/blob/main/assets/6670aa98-ec62-4b51-8c10-afa79d867c9f-removebg-preview.png" width="350" height="300" />
 
 ### 🧑‍💻 &nbsp;<strong>About Me</strong>
 - 👩‍🏫 Currently giving training on MERN stack & Blockchain.
