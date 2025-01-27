@@ -5,7 +5,7 @@
 <img align="left" alt="GIF" src="https://github.com/pglekshmi/pglekshmi/blob/main/assets/6670aa98-ec62-4b51-8c10-afa79d867c9f-removebg-preview.png" width="350" height="250" />
 
 ### 🧑‍💻 &nbsp;<strong>About Me</strong>
-- 👩‍🏫 Currently giving training on **MERN stack & Blockchain**.
+- 👩‍🏫 Currently giving training on MERN stack & Blockchain.
 - 🌱 Learning **TypeScript**, **Next.js**, **DAO**, **Blobs**, and **ZkProof**.
 - 💻 Interested in **coding** and building innovative applications.
 - 🎓 Completed **UG & PG in Computer Science**.
