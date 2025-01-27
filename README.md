@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 &nbsp;<strong>About Me</strong>
 - 👩‍🏫 Currently giving training on MERN stack & Blockchain.
-- 🌱 Learning TypeScript, Next.js, DAO, Blobs, and ZkProof.
+- 🌱 Learning TypeScript, Next.js, DAO, Blobs...
 - 💻 Interested in **coding** and building innovative applications.
 - 🎓 Completed UG & PG in Computer Science.
 - 👨‍💻 My projects are available at [pglekshmi](https://github.com/pglekshmi).
